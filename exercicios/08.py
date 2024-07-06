@@ -17,12 +17,3 @@ try:
         print("O número não está na lista.")
 except ValueError:
     print("Entrada inválida. Por favor, insira um número válido.")
-
-
-
-]]]]
-]
-]
-
-
-
