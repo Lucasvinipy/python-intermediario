@@ -11,4 +11,9 @@
 - **exercicio 06** [DEFINIÇÃO DE HORARIO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/06.py)
 - **exercicio 07** [CALSSIFICA NOME](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/07.py)
 - **exercicio 08** [VERIFICANDO NUMERO NA LISTA](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/08.py)
-- 
+- **exercicio 08** [ENCONTRAR ELEMENTO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/10.py)
+- **exercicio 08** [LISTA SUPERMERCADO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/11.py)
+- **exercicio 08** [TAMANHO ARQUIVO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/12.py)
+- **exercicio 08** [CALCULADORA INFALIVEL](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/13.py)
+- **exercicio 08** [CRUD FUNCIONARIOS SEM ERROS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/14.py)
+- **exercicio 08** [ENCONTRANDO ARQUIVO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/15.py)
