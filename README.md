@@ -17,3 +17,4 @@
 - **exercicio 12** [CALCULADORA INFALIVEL](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/13.py)
 - **exercicio 13** [CRUD FUNCIONARIOS SEM ERROS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/14.py)
 - **exercicio 14** [ENCONTRANDO ARQUIVO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/15.py)
+- **exercicio 15** [metodo closure](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/18.py)
