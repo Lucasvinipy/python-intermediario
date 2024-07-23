@@ -18,3 +18,8 @@
 - **exercicio 13** [CRUD FUNCIONARIOS SEM ERROS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/14.py)
 - **exercicio 14** [ENCONTRANDO ARQUIVO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/15.py)
 - **exercicio 15** [metodo closure](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/18.py)
+- **exercicio 16** [MUTIPLICANDO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/16.py)
+- **exercicio 17** [PARES E IMPARES](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/17.py)
+- **exercicio 18** [DOBRANDO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/18.py)
+- **exercicio 19** [PROVA COMPLETA](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/19.py)
+- **exercicio 20** [SETS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/20.py)
