@@ -1,4 +1,9 @@
 import copy
+import os
+os.system('cls')
+
+
+
 
 lista = []
 
