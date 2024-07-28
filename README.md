@@ -23,3 +23,14 @@
 - **exercicio 18** [DOBRANDO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/18.py)
 - **exercicio 19** [PROVA COMPLETA](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/19.py)
 - **exercicio 20** [SETS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/20.py)
+- **exercicio 21** [LAMBDA](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/21.py)
+- **exercicio 22** [LIST COMPREHESSION](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/22.py)
+- **exercicio 23** [LIST COMPREHESSION](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/23.py)
+- **exercicio 24** [LIST COMPREHESSION](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/24.py)
+- **exercicio 25** [TYPES EXPECTION](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/25.py)
+- **exercicio 26** [GENERATOR](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/26.py)
+- **exercicio 27** [SYS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/27.py)
+- **exercicio 28** [CADASTRO(PRIMEIRO MODULO)](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/28.PY)
+- **MODULO** [CONTINUAR](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/modulo.PY)
+- 
+
