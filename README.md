@@ -32,5 +32,7 @@
 - **exercicio 27** [SYS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/27.py)
 - **exercicio 28** [CADASTRO(PRIMEIRO MODULO)](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/28.PY)
 - **MODULO** [CONTINUAR](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/modulo.PY)
+- **exercicio 29** [LAMBDA DEEP COPY)](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/29.py)
+- **exercicio 30** [CLOUSER(MUDANDO ORDEM))](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/30.py)
 - 
 
