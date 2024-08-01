@@ -1,7 +1,7 @@
 # python intermediario
  estudo intermediario de python
 
-## TRY AND EXCEPET
+## INTERMEDIARIO
 
 - **exercicio 01** [TESTANDO](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/01.py)
 - **exercicio 02** [DIVISAO COM ERROS](https://github.com/Lucasvinipy/python-intermediario/blob/main/exercicios/02.py)
